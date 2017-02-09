@@ -8,6 +8,7 @@
        "issuedate":"2017-01-31",
        "startdate":"2017-02-05",
        "enddate":"2017-02-25",
+       "description":"very fresh and delicious,complete family meals at affordable price",
        "name":"KFC corporation"
        },
       {
@@ -18,6 +19,7 @@
         "issuedate":"2017-01-31",
        "startdate":"2017-02-05",
        "enddate":"2017-02-20",
+        "description":"very fresh and delicious,complete family meals at affordable price",
        "name":"Garcia's Famous Pizza"
        },
       {
@@ -28,6 +30,7 @@
        "issuedate":"2017-01-31",
        "startdate":"2017-02-05",
        "enddate":"2017-02-22",
+        "description":"global luxuary lifestyle brand",
        "name":"Calvin Klein"
        }
            ]
